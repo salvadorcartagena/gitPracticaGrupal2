@@ -1,2 +1,2 @@
 # gitPracticaGrupal2
- masa porcionada, habrirla y regar el queso 
+ingredientes adicionales, especies, horno 5mn
