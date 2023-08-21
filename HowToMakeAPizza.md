@@ -7,4 +7,4 @@ Ingrediente para la Pizza con Peperoni
 7 aceitunas
 8 pepinillos
 9 anchoas
-10 cerdo
+10 cerdo.
